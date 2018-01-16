@@ -1,0 +1,14 @@
+{
+  "name": "adminlte-apps",
+  "version": "1.0.0",
+  "description": "Admin LTE Apps",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Albert Septiawan",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
